@@ -32,25 +32,17 @@ I am passionate about **Data Science, AI, and Generative AI**. Currently, I am e
 
 ---
 
-### 📊 GitHub Stats & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItibrataSahoo&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItibrataSahoo&theme=radical" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItibrataSahoo&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
----
 
 ### 📣 Connect with Me
 
+📧 **Email:** itibratasahoo40@gmail.com  
+🔗 **LinkedIn:** [Itibrata Sahoo](www.linkedin.com/in/itibrata-sahoo-00a766209)  
+🌐 **Portfolio:** [itibratasahoo porfpolio](https://create-folio.vercel.app/user/itibratasahoo40)
+
+
 
 ---
 
-### 🎯 Fun Fact
-_"AI is not just about machines learning; it's about humans learning to collaborate with AI."_
 
-![Keep Learning](https://media.giphy.com/media/l0Hlyu5O4J4pHTy0k/giphy.gif)
-
----
 
 🔥 **Let's innovate and build amazing AI-driven solutions together!**

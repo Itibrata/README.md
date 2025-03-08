@@ -1,7 +1,7 @@
 # README.md
 ## Hi there, I'm Itibrata Sahoo! 👋
 
-![AI Banner](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif)
+https://giphy.com/gifs/digital-brain-ai-PjJ1cLHqLEveXysGDB
 
 ### 🚀 Data Scientist | Generative AI Enthusiast | Full-Stack Developer
 
@@ -58,6 +58,6 @@ I am passionate about *Data Science, AI, and Generative AI. Currently, I am expl
 ### 🎯 Fun Fact
 "AI is not just about machines learning; it's about humans learning to collaborate with AI."
 
-![Keep Learning](https://media.giphy.com/media/l0Hlyu5O4J4pHTy0k/giphy.gif)
+
 
 ---

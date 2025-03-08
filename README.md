@@ -1,5 +1,3 @@
-# README.md
-
 ## Data Science & AI Project
 
 ![AI](https://img.shields.io/badge/Machine%20Learning-%E2%9C%94-blue)

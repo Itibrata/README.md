@@ -27,11 +27,14 @@ I am passionate about **Data Science, AI, and Generative AI**. Currently, I am e
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ---
 
+## 📊 Visualization
+You can visualize data insights using the provided Jupyter notebooks under the `notebooks/` directory.
+
+
+---
 
 ### 📣 Connect with Me
 

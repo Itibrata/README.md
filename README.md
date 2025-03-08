@@ -1,5 +1,13 @@
 # README.md
 
+## Data Science & AI Project
+
+![AI](https://img.shields.io/badge/Machine%20Learning-%E2%9C%94-blue)
+![Python](https://img.shields.io/badge/Python-3.8%2B-brightgreen)
+![Status](https://img.shields.io/badge/Status-Active-green)
+
+---
+
 ## Hi there, I'm Itibrata Sahoo! 👋
 
 ![Data Science Banner](https://github.com/ItibrataSahoo/ItibrataSahoo/assets/https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemFnOXQyMWQwajR4bzRrd3l6NHlua2NrbXhiMGhjbWQwZW5sOHZ4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PjJ1cLHqLEveXysGDB/giphy.gif)

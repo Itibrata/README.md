@@ -8,7 +8,7 @@
 
 ## Hi there, I'm Itibrata Sahoo! 👋
 
-![Data Science Banner](https://github.com/ItibrataSahoo/ItibrataSahoo/assets/https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemFnOXQyMWQwajR4bzRrd3l6NHlua2NrbXhiMGhjbWQwZW5sOHZ4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PjJ1cLHqLEveXysGDB/giphy.gif)
+![Data Science Banner](https://miro.medium.com/v2/resize:fit:1200/0*dI-o8H3i0w66SpK7.gif)
 
 ### 🚀 Data Scientist | Generative AI Enthusiast | Full-Stack Developer
 

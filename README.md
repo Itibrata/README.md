@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Itibrata Sahoo! 👋
 
-![Data Science Banner](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRrdGs4cWZycm56eHhkY3RtdjdmZGdkbWlqa3gwd3drZmhvNzE0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PjJ1cLHqLEveXysGDB/giphy.gif)
+![Data Science Banner](https://github.com/ItibrataSahoo/ItibrataSahoo/assets/https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemFnOXQyMWQwajR4bzRrd3l6NHlua2NrbXhiMGhjbWQwZW5sOHZ4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PjJ1cLHqLEveXysGDB/giphy.gif)
 
 ### 🚀 Data Scientist | Generative AI Enthusiast | Full-Stack Developer
 
